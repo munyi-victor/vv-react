@@ -6,7 +6,7 @@ const Main = () => {
             <div className="col col1">
                 <h2>Your Movies</h2>
                 <p>In here, you can select any movie you like. <br/>To select more, click on the button.</p>
-                <button type="button">More</button>
+                <button type="button" className="btn btn-primary" style={{padding:'10px 30px'}}>More</button>
             </div>
 
             <div className="col">
